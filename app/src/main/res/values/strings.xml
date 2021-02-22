@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Palindrome Checker</string>
+    <string name="enter_a_word">Enter a word</string>
+    <string name="is_thay_a_palindrome">Is it a palindrome</string>
+    <string name="submit">Submit</string>
+    <string name="true_palind">%1$s is a palindrome 😊</string>
+    <string name="false_palind">%1$s is NOT a palindrome 😥</string>
+</resources>
